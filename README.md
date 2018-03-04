@@ -10,6 +10,6 @@ AsetAlias-Bot is a Telegram bot for sharing information about official Telegram 
 * To install all requirements simply run `pip install -r requirements.txt`
 * Run the program by `python3 asetalias.py` .
 
-##### Notes
+#### Note:
 
 This bot is hosted on Heroku.
